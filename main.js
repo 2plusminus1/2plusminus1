@@ -12,7 +12,7 @@ let overlays = {
     Pizza: L.markerClusterGroup()
 };
 
-// Karte initialisieren
+// Karte initialisieren und auf Wiens Wikipedia Koordinate blicken
 let map = L.map("map", {
     fullscreenControl: true,
     // 43.4540/-3.8081
@@ -47,8 +47,8 @@ let drawPizza = (geoJsonData) => {
             
             Overall rating: <strong>${feature.properties.overall_rating}</strong> <br>
             Estimated thickness: ${feature.properties.estimated_thickness} <br>
-            <a href="${feature.properties.website}"><i class='fas fa-address-card' style='font-size:24px'></i></a>
-            <a href="${"https://www.instagram.com/"+feature.properties.instagram}"><i class='fab fa-instagram-square' style='font-size:24px'></i></a>
+            <a href="${feature.properties.website}" target="_blank"><i class='fas fa-address-card' style='font-size:24px'></i></a>
+            <a href="${"https://www.instagram.com/"+feature.properties.instagram}" target="_blank"><i class='fab fa-instagram-square' style='font-size:24px'></i></a>
             `)
            
             // "website": <a href="https://elias-gourmetpizza.com.au/">${click here}</a> ,
