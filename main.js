@@ -44,11 +44,12 @@ let drawPizza = (geoJsonData) => {
         onEachFeature: (feature, layer) => { //Stellt bei jedem Marker ein Pop-up mit Namen dar
             layer.bindPopup(`<strong>${feature.properties.name}</strong>
             <hr>
-            
+            <a href="${feature.properties.website}" target="_blank"><i class='fas fa-address-card' style='font-size:24px'></i></a>
+            <a href="${"https://www.instagram.com/"+feature.properties.instagram}" target="_blank"><i class='fab fa-instagram-square' style='font-size:24px'></i></a>  
+            <hr>
             Overall rating: <strong>${feature.properties.overall_rating}</strong> <br>
             Estimated thickness: ${feature.properties.estimated_thickness} <br>
-            <a href="${feature.properties.website}" target="_blank"><i class='fas fa-address-card' style='font-size:24px'></i></a>
-            <a href="${"https://www.instagram.com/"+feature.properties.instagram}" target="_blank"><i class='fab fa-instagram-square' style='font-size:24px'></i></a>
+            See what ${feature.properties.author} thinks <a href = "${feature.properties.postlink}" target="_blank"> here </a>.
             `)
            
             // "website": <a href="https://elias-gourmetpizza.com.au/">${click here}</a> ,
