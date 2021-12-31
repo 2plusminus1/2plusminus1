@@ -1,0 +1,468 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "name": "Restaurantes La Tagliatella",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [43.463090158904144, -3.8086651164815577]
+        },
+        "properties": {
+            "name": "Restaurantes La Tagliatella",
+            "food_type": "Pizza",
+            "overall_rating": "8.0",
+            "estimated_thickness": "2.5",
+            "website": "https://www.latagliatella.es/restaurantes/cantabria/santander?utm_source=gmb&utm_medium=organic&utm_campaign=gmb&utm_content=sitio_web",
+            "instagram": "latagliatella",
+            "author": "swt"
+        }
+    }, {
+        "type": "Feature",
+        "name": "Verderame Pizzeria",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [43.46511611767948, -3.7924755588101275]
+        },
+        "properties": {
+            "name": "Verderame Pizzeria",
+            "food_type": "Pizza",
+            "overall_rating": "5.5",
+            "estimated_thickness": "1.5",
+            "website": "https://verderamepizzeria.eatbu.com/?lang=en",
+            "instagram": "verderamepizzeria",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "La Perla Pizzeria",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [52.37715917158256, 4.882088800881033]
+        },
+        "properties": {
+            "name": "La Perla Pizzeria",
+            "food_type": "Pizza",
+            "overall_rating": "8.2",
+            "estimated_thickness": "2.8",
+            "website": "https://pizzaperla.nl/",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "SOTTO Pizza Kadijksplein",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [52.370170294984725, 4.911901483688126]
+        },
+        "properties": {
+            "name": "SOTTO Pizza Kadijksplein",
+            "food_type": "Pizza",
+            "overall_rating": "6.5",
+            "estimated_thickness": "1.5",
+            "website": "https://sottopizza.nl/",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Proper Pizza",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [42.65884666420708, 21.154109777927072]
+        },
+        "properties": {
+            "name": "Proper Pizza",
+            "food_type": "Pizza",
+            "overall_rating": "6.3",
+            "estimated_thickness": "1.2",
+            "website": "https://www.properpizza.com/",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Arthur's Pizza Maroubra",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.94601757811531, 151.25580138336568]
+        },
+        "properties": {
+            "name": "Arthur's Pizza Maroubra",
+            "food_type": "Pizza",
+            "overall_rating": "6.7",
+            "estimated_thickness": "1.1",
+            "website": "https://www.arthurspizza.com.au/",
+            "instagram": "arthurs.pizza",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Di Napoli Pizzeria",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.88907325051724, 151.28312769870774]
+        },
+        "properties": {
+            "name": "Di Napoli Pizzeria",
+            "food_type": "Pizza",
+            "overall_rating": "9.2",
+            "estimated_thickness": "1",
+            "website": "https://www.dinapolipizzeria.com.au/",
+            "instagram": "dinapoli_bondi",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Vivaldi Italian Kitchen",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.95695731670398, 151.23102005985578]
+        },
+        "properties": {
+            "name": "Vivaldi Italian Kitchen",
+            "food_type": "Pizza",
+            "overall_rating": "6.4",
+            "estimated_thickness": "1.5",
+            "website": "https://www.vivaldikitchen.com.au/",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Elias Gourmet Pizza",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.9459396912507, 151.25651138160947]
+        },
+        "properties": {
+            "name": "Elias Gourmet Pizza",
+            "food_type": "Pizza",
+            "overall_rating": "6.9",
+            "estimated_thickness": "1.9",
+            "website": "https://elias-gourmetpizza.com.au/",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "The Duxton",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-35.26401381843555, 149.12212518523498]
+        },
+        "properties": {
+            "name": "The Duxton",
+            "food_type": "Pizza",
+            "overall_rating": "6.9",
+            "estimated_thickness": "1.7",
+            "website": "https://theduxton.com.au/",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Society Pizza Bar, Bondi Beach",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.887387478648556, 151.27247689685788]
+        },
+        "properties": {
+            "name": "Society Pizza Bar, Bondi Beach",
+            "food_type": "Pizza",
+            "overall_rating": "9.1",
+            "estimated_thickness": "2.2",
+            "website": "https://www.societypizzeria.com.au/",
+            "instagram": "societypizzeria",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Vitaly Italian & Woodfire Pizza Restaurant",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.912728694962865, 151.242422498708]
+        },
+        "properties": {
+            "name": "Vitaly Italian & Woodfire Pizza Restaurant",
+            "food_type": "Pizza",
+            "overall_rating": "7.5",
+            "estimated_thickness": "1.5",
+            "website": "https://vitalyrandwick.com.au/",
+            "instagram": "vitalyrandwick",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Assembly Bar",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.87465254968551, 151.20550025637883]
+        },
+        "properties": {
+            "name": "Assembly Bar",
+            "food_type": "Pizza",
+            "overall_rating": "7.5",
+            "estimated_thickness": "0.9",
+            "website": "https://www.assemblybar.com.au/",
+            "instagram": "assembly_bar",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Nude Pizza",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.96250831464277, 151.24605982939428]
+        },
+        "properties": {
+            "name": "Nude Pizza",
+            "food_type": "Pizza",
+            "overall_rating": "7.3",
+            "estimated_thickness": "1.2",
+            "website": "https://nudepizza.com.au/",
+            "instagram": "nude_pizza",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Lucio Pizzeria",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.905760760460915, 151.21293295637932]
+        },
+        "properties": {
+            "name": "Lucio Pizzeria",
+            "food_type": "Pizza",
+            "overall_rating": "9.1",
+            "estimated_thickness": "1.5",
+            "website": "https://luciopizzeria.com.au/zetland-menu/",
+            "instagram": "luciopizzeria",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Via Napoli Pizzeria Surry Hills",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.889008609600516, 151.21357477263354]
+        },
+        "properties": {
+            "name": "Via Napoli Pizzeria Surry Hills",
+            "food_type": "Pizza",
+            "overall_rating": "8.5",
+            "estimated_thickness": "1.3",
+            "website": "https://vianapoli.com.au/",
+            "instagram": "vianapolipizzeria",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Fana's Italian Kitchen",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.90849177647129, 151.22372281220083]
+        },
+        "properties": {
+            "name": "Fana's Italian Kitchen",
+            "food_type": "Pizza",
+            "overall_rating": "7.0",
+            "estimated_thickness": "1.5",
+            "website": "https://fanas.com.au/Menu/MENU.pdf",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Black Box Pizza and Icecream",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-31.429443205791216, 152.906998856345]
+        },
+        "properties": {
+            "name": "Black Box Pizza and Icecream",
+            "food_type": "Pizza",
+            "overall_rating": "4.0",
+            "estimated_thickness": "1.2",
+            "website": "https://www.blackboxpizza.com.au/",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Macchiato Woodfire Pizza and Coffee Roasters",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.87631219778406, 151.20811741220035]
+        },
+        "properties": {
+            "name": "Macchiato Woodfire Pizza and Coffee Roasters",
+            "food_type": "Pizza",
+            "overall_rating": "8.0",
+            "estimated_thickness": "1.2",
+            "website": "https://macchiato.com.au/",
+            "instagram": "macchiatosydney",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Gigi Pizzeria",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-33.89909659306384, 151.1775864833649]
+        },
+        "properties": {
+            "name": "Gigi Pizzeria",
+            "food_type": "Pizza",
+            "overall_rating": "9.2",
+            "estimated_thickness": "0.8",
+            "website": "https://gigipizzeria.com.au/",
+            "instagram": "gigipizzeria",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Grosso Napoletano",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.423607133363525, -3.705049958862371]
+        },
+        "properties": {
+            "name": "Grosso Napoletano",
+            "food_type": "Pizza",
+            "overall_rating": "9.3",
+            "estimated_thickness": "1.2",
+            "website": "https://www.grossonapoletano.com/restaurantes/pez-11/",
+            "instagram": "grosso_napoletano",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Capo del Pio",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [51.55295451506861, 5.096461456685857]
+        },
+        "properties": {
+            "name": "Capo del Pio",
+            "food_type": "Pizza",
+            "overall_rating": "7.3",
+            "estimated_thickness": "2.3",
+            "website": "https://capodelpio.nl/",
+            "instagram": "capodelpiotilburg",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Ristorante I DUE AMICI",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [52.43162236761479, 13.53353958738928]
+        },
+        "properties": {
+            "name": "Ristorante I DUE AMICI",
+            "food_type": "Pizza",
+            "overall_rating": "5.9",
+            "estimated_thickness": "1.2",
+            "website": "https://idueamici.berlin/",
+            "instagram": "idueamici.berlin",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "L'Osteria Berlin Memhardstraße",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [52.52416223547907, 13.40998270515201]
+        },
+        "properties": {
+            "name": "L'Osteria Berlin Memhardstraße",
+            "food_type": "Pizza",
+            "overall_rating": "6.5",
+            "estimated_thickness": "2",
+            "website": "https://losteria.net/de/restaurants/restaurant/berlin-memhardstrasse/?utm_source=google&utm_medium=Yext",
+            "instagram": "2plusminus1",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Renato's Pizzeria - De Pijp",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [52.35129333384339, 4.894548085537721]
+        },
+        "properties": {
+            "name": "Renato's Pizzeria - De Pijp",
+            "food_type": "Pizza",
+            "overall_rating": "8.2",
+            "estimated_thickness": "2.2",
+            "website": "https://www.renatos.nl/renatos-pizzeria-amsterdam/",
+            "instagram": "renatos.nl",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "San Gennaro",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [47.39173268073364, 8.525102614275955]
+        },
+        "properties": {
+            "name": "San Gennaro",
+            "food_type": "Pizza",
+            "overall_rating": "8.1",
+            "estimated_thickness": "1.8",
+            "website": "https://www.sangennarozurigo.ch/",
+            "instagram": "sangennaro_pizzeria_ristorante",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Motorino",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.78740162547647, -73.9727650965201]
+        },
+        "properties": {
+            "name": "Motorino",
+            "food_type": "Pizza",
+            "overall_rating": "8.1",
+            "estimated_thickness": "1.6",
+            "website": "https://www.motorinony.com/",
+            "instagram": "motorinopizza",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Pizzeria Tempele",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [46.740196932083286, 12.36789121314159]
+        },
+        "properties": {
+            "name": "Pizzeria Tempele",
+            "food_type": "Pizza",
+            "overall_rating": "8.7",
+            "estimated_thickness": "1.4",
+            "website": "https://www.pizzeria-tempele.it/",
+            "instagram": "pizzeria_tempele",
+            "author": "swt"
+        }
+    },{
+        "type": "Feature",
+        "name": "Die Pizzerei",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [47.26482342994353, 11.39790720184995]
+        },
+        "properties": {
+            "name": "Die Pizzerei",
+            "food_type": "Pizza",
+            "overall_rating": "9.2",
+            "estimated_thickness": "1.8",
+            "website": "https://www.diepizzerei.at/",
+            "instagram": "diepizzerei",
+            "author": "swt"
+        }
+    }]
+}
