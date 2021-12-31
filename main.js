@@ -12,7 +12,7 @@ let overlays = {
     Pizza: L.markerClusterGroup()
 };
 
-// Karte initialisieren und auf Wiens Wikipedia Koordinate blicken
+// Karte initialisieren
 let map = L.map("map", {
     fullscreenControl: true,
     // 43.4540/-3.8081
