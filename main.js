@@ -88,7 +88,6 @@ for (let config of DATA) {
         .then(response => response.json())
         .then(geoJsonData => {
             if (config.title == "Pizza") {
-                console.log("Data: ", geoJsonData);
                 drawPizza(geoJsonData)
             }
         })
